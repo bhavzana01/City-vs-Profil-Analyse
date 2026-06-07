@@ -28,8 +28,7 @@ This Excel project analyzes city-wise business performance using Excel formulas,
 ## Visualization
 
 Column Chart showing City vs Final Profit.
-![Chart](chart.png)
-
+![Chart](image/chart.png)
 
 ## Author
 
